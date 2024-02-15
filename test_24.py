@@ -31,17 +31,17 @@ option= st.selectbox("Which penguin do you want?",
 if option == "Adelie":
     with col1:
         st.header("Adelie")
-        st.image("Images/Images/Adelie.png")
+        st.image("Images/Adelie.png")
 
 if option == "Chinstrap":
     with col2:
         st.header("Chinstrap")
-        st.image("Images/Images/Chinstrap.png")
+        st.image("Images/Chinstrap.png")
 
 if option == "Gentoo":
     with col3:
         st.header("Gentoo")
-        st.image("Images/Images/Gentoo.png")
+        st.image("Images/Gentoo.png")
 
     
     
