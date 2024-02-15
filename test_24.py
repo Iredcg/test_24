@@ -31,17 +31,17 @@ option= st.selectbox("Which penguin do you want?",
 if option == "Adelie":
     with col1:
         st.header("Adelie")
-        st.image("Images/Adelie.png")
+        st.image("https://github.com/Iredcg/test_24/tree/main/Images/Adelie.png")
 
 if option == "Chinstrap":
     with col2:
         st.header("Chinstrap")
-        st.image("Images/Chinstrap.png")
+        st.image("https://github.com/Iredcg/test_24/tree/main/Images/Chinstrap.png")
 
 if option == "Gentoo":
     with col3:
         st.header("Gentoo")
-        st.image("Images/Gentoo.png")
+        st.image("https://github.com/Iredcg/test_24/tree/main/Images/Gentoo.png")
 
     
     
